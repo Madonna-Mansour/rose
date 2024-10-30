@@ -1,0 +1,78 @@
+form{
+    display: flex;
+margin: 20px;
+border-color: #bd8530;
+margin-right: 100px;
+margin-top: 150px;
+}
+body{
+    background-color: rgb(236, 231, 231);
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+fieldset{
+
+    margin: 10px;
+    width: 350px;
+height: 200px;
+padding: 20px;
+border-color: #267b26;
+border-radius: 5px;
+}
+form input{
+    border-radius: 5px;
+    border-color: #267b26;
+    border-top: 2px #267b26 solid ;
+
+}
+.e {
+    background-color: #267b26; ;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+fieldset{
+    border: 2px #267b26 solid;
+    margin-top: 50px;
+}
+.o{
+    background-image: url(img/غلاف.avif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.j{
+    width: 200px;
+height: 170px;
+}
+.u{
+margin-top: 60px;}
+.u img{
+    width: 250px;
+    height: 250px;
+}
+.u input{
+    border-radius: 5px;
+    background-color: #1a8906;
+    border: none;
+    width: 100px;
+    height: 20px;
+}
+.d{
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+}
+.d img{
+    width: 25px;
+    height: 25px;
+    padding: 12px;
+}
+.r{
+    display: flex;
+    justify-content: center;
+}

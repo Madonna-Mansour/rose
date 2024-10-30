@@ -1,0 +1,12 @@
+form{
+    padding:30px ;
+}
+
+.form-control.is-valid, .was-validated .form-control:valid {
+border-color: rgb(87, 86, 86);
+background-image: none;
+}
+
+
+body{
+}
